@@ -24,3 +24,9 @@ origin	git@github.com:KwokFong/git_test.git (push)
 
 ### * Push committed changes to GitHub
 `git push origin main`
+
+
+### * Checking status and log
+`git status`
+
+`git log`
