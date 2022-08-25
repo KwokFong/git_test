@@ -10,9 +10,9 @@ https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git
 ### * Check remote storage location 
 `git remote -v`
 
-origin	git@github.com:KwokFong/git_test.git (fetch)
-
-origin	git@github.com:KwokFong/git_test.git (push)
+> origin	git@github.com:KwokFong/git_test.git (fetch)
+> 
+> origin	git@github.com:KwokFong/git_test.git (push)
 
 - Show the URL of the repository on GitHub.
 - Shows the 'remote storage' of the 'local machine' copy.
