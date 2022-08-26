@@ -17,7 +17,8 @@ https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git
 
 ### * Add stuffs to __staging__ area and commit to __local__ branch.
 `git add README.md`   
-`git commit -m "<descriptions>"`
+`git commit -m "<descriptions>"`  
+`git commit -a -m "<descriptions>"`
 
 ### * Push committed changes (from local) to GitHub (remote).
 `git push origin main`
